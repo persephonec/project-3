@@ -1,0 +1,53 @@
+body {
+    background-color: lightpink;
+    padding: 20px;
+    margin:0;
+
+}
+
+h1, h2, h3, ul, li {
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 {
+    color: lavender;
+}
+p {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+
+ul.header {
+    background-color: lightblue;
+    padding:0;
+
+}
+
+ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+.content {
+    background-color: lightseagreen;
+    padding: 20px;
+}
+
+.content h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.content li {
+    margin-bottom: 10px;
+}
